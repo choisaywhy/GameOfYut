@@ -1,0 +1,12 @@
+﻿  minsu.c
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(16): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(19): warning C4013: 'setcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(21): warning C4013: 'unsetcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(175): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(209): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(245): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(282): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(563): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(603): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+s:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]noriyut_code\[1-02]noriyut_code\minsu.c(620): warning C4013: 'CursorView'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  [1-02]NoriYut_code.vcxproj -> S:\학교\충북대학교\2학년\2학년 1학기\기초프로젝트\(2019기초프로젝트-02팀)최종팀프로젝트자료\[1-02]NoriYut_code\Debug\[1-02]NoriYut_code.exe
